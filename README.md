@@ -1,1 +1,1 @@
-# Web-Technologies Workshop
+# Web-Technologies-Workshop
